@@ -1,4 +1,4 @@
-# ☕ Express coffee
+# ☕ Nodejs Coffee
 A rest server with nodejs, express and mongodb with features like:
 - Google authentication
 - Basic Authentication with JWT
